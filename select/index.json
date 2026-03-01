@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "白い恋人",
+  "base_artist": "サニーデイ・サービス",
+  "createdAt": "2026-03-01T13:28:37.037222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白い恋人",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/01_白い恋人_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白い恋人",
+      "artist": "Sunny Day Service",
+      "has_synced": true,
+      "path": "select/02_白い恋人_Sunny_Day_Service.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白い恋人",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/03_白い恋人_松田聖子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白い恋人",
+      "artist": "Sunny Day Service",
+      "has_synced": false,
+      "path": "select/pl_01_白い恋人_Sunny_Day_Service.txt"
+    }
+  ]
+}
